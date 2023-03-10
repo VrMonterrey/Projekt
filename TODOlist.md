@@ -20,3 +20,5 @@ Powiadomienia o nadmiernym spożyciu kalorii
 Dostęp do różnych planów żywieniowych 
 Możliwość ustawienia trybu offline, aby aplikacja działała bez połączenia z internetem 
 Opcja dodawania swoich własnych przepisów kulinarnych do biblioteki aplikacji 
+Możliwość udostępnienia linku do pobrania aplikacji
+System rangów
