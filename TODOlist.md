@@ -1,24 +1,31 @@
-Rejestracja i logowanie użytkowników 
-Tworzenie i edycja profilu użytkownika 
-Podanie normy wagi wyliczonej ze wzrostu
-Śledzenie harmonogramu treningowego  
-Monitorowanie spożywanych posiłków i wody 
-Dodawanie i edytowanie spożywanych posiłków 
-Obliczanie kalorii w spożywanych posiłkach 
-Wyświetlanie informacji o wartości odżywczej spożywanych posiłków 
-Tworzenie planów dietetycznych i przepisów kulinarnych 
-Zapisywanie i monitorowanie pomiarów ciała, takich jak waga, obwód talii i innych 
-Dzielenie się postępami na mediach społecznościowych 
-Ustawianie przypomnień dotyczących posiłków 
-Podpowiedzi dotyczące zdrowego trybu życia 
-Statystyki postępów w osiąganiu celów zdrowotnych 
-Możliwość porównania swoich wyników z wynikami innych użytkowników  
-Wyświetlanie grafików i wykresów postępów w osiąganiu celów zdrowotnych   
-Wyświetlanie porad dotyczących żywienia i ćwiczeń w oparciu o preferencje użytkownika 
-Personalizacja planów treningowych i dietetycznych w oparciu o cele zdrowotne użytkownika 
-Powiadomienia o nadmiernym spożyciu kalorii 
-Dostęp do różnych planów żywieniowych 
-Możliwość ustawienia trybu offline, aby aplikacja działała bez połączenia z internetem 
-Opcja dodawania swoich własnych przepisów kulinarnych do biblioteki aplikacji 
-Możliwość udostępnienia linku do pobrania aplikacji
-System rangów
+    Rejestracja użytkownika
+    Logowanie użytkownika
+    Edycja profilu użytkownika
+    Wyświetlanie listy posiłków na dzień
+    Dodawanie posiłków do listy na dzień
+    Usuwanie posiłków z listy na dzień
+    Wyszukiwanie posiłków wg nazwy lub składników
+    Wyświetlanie informacji o kaloryczności posiłków
+    Obliczanie ilości spożytych kalorii na dzień
+    Wyświetlanie listy składników posiłków
+    Dodawanie składników do listy posiłków
+    Usuwanie składników z listy posiłków
+    Wyświetlanie listy ulubionych posiłków
+    Dodawanie posiłków do listy ulubionych
+    Usuwanie posiłków z listy ulubionych
+    Wyświetlanie listy kategorii posiłków (np. śniadania, obiady, kolacje)
+    Dodawanie nowych kategorii posiłków
+    Usuwanie kategorii posiłków
+    Wyświetlanie informacji o wartościach odżywczych posiłków (np. białko, węglowodany, tłuszcze)
+    Dodawanie komentarzy do posiłków
+    Wyświetlanie komentarzy do posiłków
+    Otrzymywanie powiadomień o terminie spożycia posiłków
+    Wyświetlanie informacji o wartościach odżywczych produktów
+    Wyszukiwanie produktów wg nazwy lub kategorii
+    Zapisywanie historii spożytych posiłków
+    Wyświetlanie wykresów pokazujących ilość spożytych kalorii w czasie
+    Możliwość udostępniania linku do pobrania aplikacji
+    Monitorowanie ilości spożytej wody
+    Powiadomienia o nadmiernym spożyciu kalorii 
+    Zapisywanie i monitorowanie pomiarów ciała, takich jak waga, obwód talii i innych 
+    Podpowiedzi dotyczące zdrowego trybu życia 
